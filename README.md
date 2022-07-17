@@ -15,7 +15,7 @@ Juggling (WIP),
 Juggling rubiks' cubes and solving them (Not even sure if it's possible),
 
 **Quotes I find inspirational**
-"The only thing between you and a million dollars is a million dollars" 
+"The only thing between me and a million dollars is a million dollars" 
 "You can be replaced" 
 "It will probably get worse" 
 "You're born, you work, you die" 
