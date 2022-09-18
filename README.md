@@ -36,3 +36,14 @@ Juggling rubiks' cubes and solving them (Not even sure if it's possible),
 "You're born, you work, you die" 
 <br>
 "Don't trust any of those internet quotes" ~Abarham Lincoln, 1864
+<br>
+<br>
+
+**Current Works / Projects**
+<br>
+_Cube Timer (Name is WIP)_ - A new cubing timer for the web with new features
+<br>
+_Full Web Development Tutorial_ - A full course program covering aspects of HTML, CSS, and JS
+<br>
+<br>
+**I cannot wait to ruin your expectations for my work**
