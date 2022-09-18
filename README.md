@@ -1,4 +1,4 @@
-Hi, I’m @brennanrules124 (He / Him) _I hate that I have to write my pronouns here but in todays society I think I need to_
+Hi, I’m @brennanrules124 (He / Him) _Alive for years, lived 0_
 <br>
 <br>
 **I waste my time writing code to solve dumb questions that I encounter**
