@@ -19,3 +19,5 @@ Juggling rubiks' cubes and solving them (Not even sure if it's possible),
 "You can be replaced" 
 "It will probably get worse" 
 "You're born, you work, you die" 
+<br>
+"Don't trust any of those internet quotes" ~Abarham Lincoln, 1864
