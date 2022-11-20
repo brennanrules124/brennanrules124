@@ -1,4 +1,4 @@
-Hi, I’m @brennanrules124 (He / Him) _Alive for years, lived 0_
+Hi, I’m @brennanrules124 (He / Him) _Alive for ~16 years, lived 0_
 <br>
 <br>
 **I waste my time writing code to solve dumb questions that I encounter**
