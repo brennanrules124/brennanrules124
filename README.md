@@ -20,10 +20,6 @@ Gaming,
 <br>
 Game design,
 <br>
-Juggling (WIP),
-<br>
-Juggling rubiks' cubes and solving them (Not even sure if it's possible),
-<br>
 <br>
 **Quotes I find inspirational**
 <br>
