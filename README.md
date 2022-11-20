@@ -46,4 +46,4 @@ _Cube Timer (Name is WIP)_ - A new cubing timer for the web with new features
 _Full Web Development Tutorial_ - A full course program covering aspects of HTML, CSS, and JS
 <br>
 <br>
-**I cannot wait to ruin your expectations for my work**
+**I cannot wait to ruin your expectations with my terrible code**
