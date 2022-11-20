@@ -23,7 +23,7 @@ Game design,
 <br>
 **Quotes I find inspirational**
 <br>
-"The only thing between me and a million dollars is a million dollars" 
+"The only thing between you and a million dollars is a million dollars" 
 <br>
 "You can be replaced" 
 <br>
