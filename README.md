@@ -72,4 +72,4 @@ _Full Web Development Tutorial_ - A full course program covering aspects of HTML
 ~My IQ happens to be the same as the temperature in my room. It's the winter and I use Celcius
 <br>
 <br>
-**I cannot wait to ruin your expectations with my terrible code**
+**I cannot wait to ruin your expectations with my horrendous code**
