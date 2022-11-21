@@ -20,7 +20,6 @@ Gaming,
 <br>
 Game design,
 <br>
-<br>
 Math (You can probably already guess my race from this)
 <br>
 <br>
