@@ -67,9 +67,9 @@ _Full Web Development Tutorial_ - A full course program covering aspects of HTML
 <br>
 ~9 + 10 != 21
 <br>
-If you cut a Texas-sized hole in the United States, there'd be a Texas-size void
+~If you cut a Texas-sized hole in the United States, there'd be a Texas-size void
 <br>
-~My IQ happens to be the same as the temperature in my room, and it's currently November 20, 2022 and I use Celcius
+~My IQ happens to be the same as the temperature in my room. It's the winter and I use Celcius
 <br>
 <br>
 **I cannot wait to ruin your expectations with my terrible code**
