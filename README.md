@@ -46,6 +46,7 @@ _Full Web Development Tutorial_ - A full course program covering aspects of HTML
 <br>
 
 **Accomplishments**
+<br>
 ~Building calculators in Minecraft (Yes I'm that much of a nerd)
 <br>
 ~Currently banned from xbox live for hacking on Tetris Effect (Totally an accident)
@@ -57,6 +58,7 @@ _Full Web Development Tutorial_ - A full course program covering aspects of HTML
 <br>
 
 **Fun facts**
+<br>
 ~One Time, I mistakenly named Commit 71 on The Cube Timer "Update 73"
 <br>
 ~If you put all the programmers in the world in one room, it'd be crowded
