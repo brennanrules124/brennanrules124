@@ -1,3 +1,7 @@
+**Looking for an unqualified idiot that shouldn't be trusted on github?**
+<br>
+Well Look no further than me,
+<br>
 Hi, I’m @brennanrules124 (He / Him) _Alive for ~16 years, lived 0_
 <br>
 <br>
