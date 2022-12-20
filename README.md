@@ -13,7 +13,7 @@ Is the 3x+1 conjecture true?
 <br>
 What's the maximum score a bot can get in piano tiles?
 <br>
-How many subscribers can I get on youtube from a bot? ([https://www.youtube.com/channel/UCKoLJvo_AGMZhovQPwD34tA/](url))
+How many subscribers can I get on youtube from a bot? (<a href="https://www.youtube.com/channel/UCKoLJvo_AGMZhovQPwD34tA">Shameless Promotion</a>)
 <br>
 <br>
 **Some other useless skills I have:**
