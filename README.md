@@ -57,7 +57,7 @@ _Full Web Development Tutorial_ - A full course program covering aspects of HTML
 <br>
 ~Probably holding the record for the most times told "You're a disappointment"
 <br>
-~Chess.com score is currently 260 (At least my family has reasoning to believe I'm a disappointment)
+~Currently suck at chess (At least my family has reasoning to believe I'm a disappointment)
 <br>
 <br>
 
