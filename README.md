@@ -1,6 +1,6 @@
 **Looking for an unqualified idiot that shouldn't be trusted on github?**
 <br>
-Well Look no further because not only am I an idiot, I'm also unqualified for this.
+Well Look no further because I perfectly fit this criteria
 <br>
 Hi, I’m @brennanrules124 (He / Him) _Alive for ~16 years, lived 0_
 <br>
