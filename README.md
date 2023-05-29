@@ -27,5 +27,5 @@ Projects I'm currently Working On:
   
 <br>
   
-<h3>I cannot wait to fry your brain with the god awful code that my dumbass manages to create<h3>
-<h4>"Oh, the misery. Everybody wants to be my enemy"<h4>
+<h3>I cannot wait to fry your brain with some god awful code<h3>
+<h4>"It's not a bug, it's a feature!"<h4>
