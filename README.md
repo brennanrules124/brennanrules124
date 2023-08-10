@@ -27,5 +27,5 @@ Projects I'm currently Working On:
   
 <br>
   
-<h3>I cannot wait to fry your brain with some god awful code<h3>
+<h3>Don't ask me what my code does because I don't know either.<h3>
 <h4>"It's not a bug, it's a feature!"<h4>
